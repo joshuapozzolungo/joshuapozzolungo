@@ -18,3 +18,6 @@
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"/>
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg"/>
 
+
+### 📊 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
