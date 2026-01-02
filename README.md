@@ -2,6 +2,9 @@
 
 **`Aspring Cyber Security Engineer @ UNSW`**
 
+### ✨ About Me
+ Hi, my name is Joshua. I am a Software Engineering Student @UNSW, looking at majoring in Cyber Security. I am passionate about creating secure, user-centric digital experiences. Currently, I’m combining my interest in frontend development with my technical background to build an app designed to help NSW students navigate the HSC Mathematics curriculum. My goal is to create tools that are not only highly functional and intuitive to use but built with a foundation of security and privacy from the ground up
+
 ### 🧰 Languages and Tools
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg"/>
 <img align="left" alt="bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bash/bash-original.svg"/>
@@ -19,5 +22,8 @@
 <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg"/>
 
 
-### 📊 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+### 🚀 My Projects
+
+
+
+### 🚧 Work in Progress
