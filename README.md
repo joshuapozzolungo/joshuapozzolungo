@@ -6,9 +6,11 @@
 <p>Welcome to my page! <br> I'm Joshua, an aspring full stack and AI/ML engineer currently studying Software Engineering at UNSW.</p>
 
 <h3>Langauges/Frameworks/Tools</h3>
-<img src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/-Bash-45b8d8?style=flat-square&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-FFDF00?style=flat-square&logo=javascript&logoColor=white">
+![Python](https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-45b8d8?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFDF00?style=flat-square&logo=javascript&logoColor=white)
+
+
 <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-C-659AD3?style=flat-square&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/-C++-659AD3?style=flat-square&logo=cplusplus&logoColor=white">
@@ -80,7 +82,7 @@
 </a>    
 </p>
 
-<h3>Philosphy</h3>
+<h3>Philosophy</h3>
 
 <blockquote>
     <p>"For the things we have to learn before we can do them, we learn by doing them." - Aristotle. Having struggled being in tutorial hell or writing notes, waiting for the perfect time and the right amount of 
