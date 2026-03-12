@@ -1,4 +1,4 @@
-<h2>
+<h2 style="display: flex; align-items: center;">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" style="width:50px; height:50px;">
     Hey there! Nice to see you.
 </h2>
