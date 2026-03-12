@@ -30,14 +30,14 @@
 ![Mongo](https://img.shields.io/badge/-MongoDB-09934E?style=flat-square&logo=mongodb&logoColor=white)
 
 ## Current Projects
-- **[HSC Maths Hub]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Maths Hub for students to access
-- **[Dev Portfolio]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Personal portfolio website
-- **[Webserver Analysis]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Finding operational webservers on UNSW campus
+- **[HSC Maths Hub](https://github.com/joshuapozzolungo/nsw-maths-repo)** - Maths Hub for students to access
+- **[Dev Portfolio](https://github.com/joshuapozzolungo/nsw-maths-repo")** - Personal portfolio website
+- **[Webserver Analysis](https://github.com/joshuapozzolungo/nsw-maths-repo)** - Finding operational webservers on UNSW campus
 
 ## Legacy Work
-- **[Git Recreation]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Recreated git in python
-- **[Submission system and Automarker]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Recreated UNSW's submission and marking scheme in shell
-- **[Hybrid TCP/UDP Protocol]("https://github.com/joshuapozzolungo/nsw-maths-repo")** - Created my own transport protocol blending TCP/UDP
+- **[Git Recreation](https://github.com/joshuapozzolungo/nsw-maths-repo)** - Recreated git in python
+- **[Submission system and Automarker](https://github.com/joshuapozzolungo/nsw-maths-repo)** - Recreated UNSW's submission and marking scheme in shell
+- **[Hybrid TCP/UDP Protocol](https://github.com/joshuapozzolungo/nsw-maths-repo)** - Created my own transport protocol blending TCP/UDP
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=&logoColor=white)](www.linkedin.com/in/joshua-pozzolungo)
