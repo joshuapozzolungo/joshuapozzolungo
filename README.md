@@ -1,7 +1,7 @@
-<div style="display:flex; align-items:center;">
+<h2>
 <img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" style="width:50px; height:50px;">
-<h2>Hey there! Nice to see you.</h2>
-</div>
+    Hey there! Nice to see you.
+</h2>
 
 <p>Welcome to my page! <br> I'm Joshua, an aspring full stack and AI/ML engineer currently studying Software Engineering at UNSW.</p>
 
